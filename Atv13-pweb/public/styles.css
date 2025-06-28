@@ -1,0 +1,24 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  background: linear-gradient(135deg, #1f1c2c, #390c4a);
+  color: #fff;
+}
+
+.card {
+  background-color: #fff !important;
+  border: none;
+  border-radius: 1rem;
+}
+
+h1 {
+  font-size: 3rem;
+  font-weight: 700;
+}
+
+button {
+  background-color: #fff;
+  border-radius: 1rem;
+  padding: 0.75rem 2rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+}
